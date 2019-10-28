@@ -357,7 +357,7 @@
             <a href="#" id="close-button">×</a>
             <nav class="outer-nav">
                 <div id="nav-scroll">
-                    <a href="#" class="bb-current">Về trang bìa</a>
+                    <a href="#"class="bb-current">Về trang bìa</a>
                 </div>
             </nav>
         </div><!-- /menu-wrapper  -->

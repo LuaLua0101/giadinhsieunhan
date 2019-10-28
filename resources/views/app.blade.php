@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
+    <title>Gia Đình Siêu Nhân</title>
 
     <!-- FONTS -->
     <link href={{ asset("public/css/css.css")}} rel="stylesheet" type="text/css">
@@ -37,15 +37,11 @@
         margin-right: 0px;
     }
     </style>
-
 </head>
-
 </head>
-
 <body style="background:url(../public/img/watercolor.jpg);">
 @yield('content')
 </body>
-
 </html>
 <script type="text/javascript" src={{ asset("public/js/jquery-1.10.2.min.js")}}></script>
 <script type=" text/javascript" src={{ asset("public/js/jquery.easing.min.js")}}></script>
